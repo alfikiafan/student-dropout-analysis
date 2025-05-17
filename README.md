@@ -62,6 +62,9 @@ git clone https://github.com/alfikiafan/student-dropout-analysis.git
 cd student-dropout-analysis
 ```
 
+Dataset dapat diunduh dari tautan berikut:  
+https://github.com/dicodingacademy/dicoding_dataset/tree/main/students_performance
+
 ### 2. Siapkan Virtual Environment (Opsional)  
 Jalankan perintah berikut di terminal untuk membuat virtual environment:
 ```bash
