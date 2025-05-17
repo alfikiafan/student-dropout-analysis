@@ -88,13 +88,14 @@ Kemudian jalankan aplikasi dengan perintah:
 ```bash
 streamlit run app.py
 ```
-Anda juga bisa mengakses aplikasi prediksi di https://
+Anda juga bisa mengakses aplikasi prediksi di  
+https://alfikiafan-student-dropout-analysis.streamlit.app/
 
 ## 📊 Dashboard Metabase
 
 ### File:
-* `metabase.db.mv.db` (database Metabase H2)
-Link: http://localhost:3000/public/dashboard/4226c90a-983f-48e9-9e4d-573841f5cf94
+* `metabase.db.mv.db` (database Metabase H2)  
+* **Link:** http://localhost:3000/public/dashboard/4226c90a-983f-48e9-9e4d-573841f5cf94
 
 ### Cara Menjalankan Metabase:  
 1. Pastikan Anda sudah menginstal Docker di sistem Anda. Jika belum, silakan ikuti petunjuk instalasi Docker sesuai dengan sistem operasi yang Anda gunakan.  
